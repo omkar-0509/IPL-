@@ -15,7 +15,7 @@ This project contains two datasets:
 - Balls Faced  
 - Strike Rate  
 - Average  
-- 4s, 6s  
+- 4s, 6s   
 - 50s, 100s  
 
 ### Bowlers Dataset
