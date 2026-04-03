@@ -1,103 +1,60 @@
-🏏 IPL Batters & Bowlers Performance Analysis
+# 🏏 IPL Batters & Bowlers Analysis
 
-This project analyzes IPL Cricket Players Performance including Batters and Bowlers statistics using Python Data Analysis and Visualization libraries. The goal is to extract meaningful insights from IPL player data and understand performance trends.
+This project analyzes IPL players' performance including **Batters and Bowlers** to extract meaningful insights using Python Data Analysis and Visualization libraries.
 
-📌 Project Overview
+## 📂 Dataset
 
-This project focuses on:
+This project contains two datasets:
 
-Batters performance analysis
-Bowlers performance analysis
-Player comparison
-Team performance insights
-Match-winning factors
-Data visualization & insights
+### Batters Dataset
+- Player Name  
+- Team  
+- Matches  
+- Innings  
+- Runs  
+- Balls Faced  
+- Strike Rate  
+- Average  
+- 4s, 6s  
+- 50s, 100s  
 
-The project uses Exploratory Data Analysis (EDA) and Data Visualization techniques.
+### Bowlers Dataset
+- Player Name  
+- Team  
+- Matches  
+- Overs  
+- Runs Conceded  
+- Wickets  
+- Economy Rate  
+- Average  
+- Strike Rate  
+- 4-wicket & 5-wicket  
 
-📂 Dataset Information
+## 🚀 Technologies Used
 
-This project uses two datasets:
+- Python  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Plotly  
 
-1️⃣ Batters Dataset
+## 📊 Project Tasks
 
-File: Batters.ipynb
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- Batters Performance Analysis  
+- Bowlers Performance Analysis  
+- Player Comparison  
+- Data Visualization  
 
-Features
-Player Name
-Team
-Matches
-Innings
-Runs
-Balls Faced
-Strike Rate
-Average
-4s
-6s
-50s
-100s
-2️⃣ Bowlers Dataset
+## 📈 Key Analysis
 
-File: Bowlers.ipynb
+- Top Run Scorers  
+- Best Batting Average  
+- Highest Strike Rate  
+- Most Wickets  
+- Best Economy Rate  
+- Player Performance Comparison  
 
-Features
-Player Name
-Team
-Matches
-Overs
-Runs Conceded
-Wickets
-Economy Rate
-Average
-Strike Rate
-4-wickets
-5-wickets
-🚀 Technologies Used
-🐍 Python Libraries
-Data Processing
-NumPy
-Pandas
-Visualization
-Matplotlib
-Seaborn
-Plotly
-Data Analysis
-Jupyter Notebook
-📊 Project Workflow
-1️⃣ Data Loading
-Import datasets
-Understand dataset structure
-2️⃣ Data Cleaning
-Handle missing values
-Remove duplicates
-Fix data types
-3️⃣ Exploratory Data Analysis (EDA)
-Batters Analysis
-Top run scorers
-Highest strike rate
-Best batting average
-Most sixes
-Most fours
-Bowlers Analysis
-Most wickets
-Best economy
-Best bowling average
-Best strike rate
-Most 4-wicket hauls
-📈 Visualizations
-
-This project includes:
-
-Bar charts
-Pie charts
-Line charts
-Scatter plots
-Box plots
-Heatmaps
-📁 Project Structure
-IPL-Player-Analysis/
-│
-├── Batters.ipynb
-├── Bowlers.ipynb
-├── README.md
-└── requirements.txt
+## 📁 Project Structure
